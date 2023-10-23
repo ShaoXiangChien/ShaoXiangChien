@@ -17,10 +17,9 @@
 ## 🚀 About Me
 I'm a passionate coder with a strong footing in web development and data science. Currently scouting for software engineering roles to bring my expertise to the forefront.
 
-- 🌱 Diving deeper into **[Specific Technology/Tool/Topic you're learning, e.g., "React.js"]**.
-- 📫 Reach me at: [Your Email Address]
-- 💼 LinkedIn: [Your LinkedIn Profile Link]
-- 🌐 Portfolio: [Your Portfolio Link]
+- 🌱 Diving deeper into **Next.js, Tensorflow**.
+- 📫 Reach me at: [ericchien21@gmail.com](mailto:ericchien21@gmail.com)
+- 🌐 Portfolio: https://ericchien218.editorx.io/abouteric
 - 🤝 Open for collaborations in **web development** and **data science** domains.
 
 ## 🔧 Technologies & Tools
