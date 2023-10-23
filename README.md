@@ -63,5 +63,5 @@ I'm a passionate coder with a strong footing in web development and data science
 - 📝 Blogs: [Your Blog or Articles link]
 
 ## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=ShaoXiangChien&show_icons=true&theme=radical)
 
