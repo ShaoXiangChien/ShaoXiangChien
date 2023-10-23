@@ -62,5 +62,8 @@ I'm a passionate coder with a strong footing in web development and data science
 - 📝 Blogs: [Your Blog or Articles link]
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ShaoXiangChien&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaoXiangChien&theme=default)
+
+## Languages
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShaoXiangChien&theme=default)
 
