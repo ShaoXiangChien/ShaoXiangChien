@@ -58,6 +58,6 @@ I'm a passionate coder with a strong footing in web development and data science
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaoXiangChien&theme=default)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShaoXiangChien)](https://git.io/streak-stats)
 
-## Languages
+## 💻 Languages
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShaoXiangChien&theme=default)
 
