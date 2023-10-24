@@ -51,6 +51,77 @@ I'm a passionate coder with a strong footing in web development and data science
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+## 🌟 My Projects
+
+<table align="center" width="100%">
+  <tr>
+    <!-- Project 1 -->
+    <td align="center" width="33%">
+      <a href="PROJECT_1_URL">
+        <img src="PROJECT_1_IMAGE_URL" alt="BacktestFlex" width="70%" />
+        <br />
+        <b>🚀 BacktestFlex</b>
+      </a>
+      <br />
+      Bitcoin Trading Strategy Backtester using Python, Streamlit & Binance API.
+    </td>
+    <!-- Project 2 -->
+    <td align="center" width="33%">
+      <a href="PROJECT_2_URL">
+        <img src="PROJECT_2_IMAGE_URL" alt="Eric Chien's LINE Bot" width="70%" />
+        <br />
+        <b>🤖 Eric Chien's LINE Bot</b>
+      </a>
+      <br />
+      An interactive peek into my journey and projects via LINE bot.
+    </td>
+    <!-- Project 3 -->
+    <td align="center" width="33%">
+      <a href="PROJECT_3_URL">
+        <img src="PROJECT_3_IMAGE_URL" alt="Product Classifier" width="70%" />
+        <br />
+        <b>🛍️ Product Classifier</b>
+      </a>
+      <br />
+      E-commerce CNN model showcasing automatic product categorization.
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 4 -->
+    <td align="center">
+      <a href="PROJECT_4_URL">
+        <img src="PROJECT_4_IMAGE_URL" alt="Azure Multivariate Anomaly Detector Lab" width="70%" />
+        <br />
+        <b>🌌 Azure MVAD Lab</b>
+      </a>
+      <br />
+      Azure's MVAD capabilities with hands-on dataset exploration.
+    </td>
+    <!-- Project 5 -->
+    <td align="center">
+      <a href="PROJECT_5_URL">
+        <img src="PROJECT_5_IMAGE_URL" alt="msft-mlops-workshop" width="70%" />
+        <br />
+        <b>🚀 msft-mlops-workshop</b>
+      </a>
+      <br />
+      Mastering MLOps with Microsoft's tools and services.
+    </td>
+    <!-- Project 6 -->
+    <td align="center">
+      <a href="PROJECT_6_URL">
+        <img src="PROJECT_6_IMAGE_URL" alt="Noppo" width="70%" />
+        <br />
+        <b>📺 Noppo</b>
+      </a>
+      <br />
+      Aggregator & Analyzer for Netflix originals' comments and ratings.
+    </td>
+  </tr>
+</table>
+
+
+
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
