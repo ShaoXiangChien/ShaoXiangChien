@@ -13,7 +13,7 @@
 # Hi there, I'm Eric! 👋
 
 ## 🙋‍♂️ About Me
-I'm a passionate coder with a strong footing in web development and data science. Currently scouting for software engineering roles to bring my expertise to the forefront.
+I'm a passionate coder with a strong footing in web development and data science. Currently scouting for **software engineering roles** to bring my expertise to the forefront.
 
 - 🌱 Diving deeper into **Next.js, Tensorflow**.
 - 📫 Reach me at: [ericchien21@gmail.com](mailto:ericchien21@gmail.com)
