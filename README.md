@@ -53,72 +53,16 @@ I'm a passionate coder with a strong footing in web development and data science
 
 ## 🌟 My Projects
 
-<table align="center" width="100%">
-  <tr>
-    <!-- Project 1 -->
-    <td align="center" width="33%">
-      <a href="PROJECT_1_URL">
-        <img src="PROJECT_1_IMAGE_URL" alt="BacktestFlex" width="70%" />
-        <br />
-        <b>🚀 BacktestFlex</b>
-      </a>
-      <br />
-      Bitcoin Trading Strategy Backtester using Python, Streamlit & Binance API.
-    </td>
-    <!-- Project 2 -->
-    <td align="center" width="33%">
-      <a href="PROJECT_2_URL">
-        <img src="PROJECT_2_IMAGE_URL" alt="Eric Chien's LINE Bot" width="70%" />
-        <br />
-        <b>🤖 Eric Chien's LINE Bot</b>
-      </a>
-      <br />
-      An interactive peek into my journey and projects via LINE bot.
-    </td>
-    <!-- Project 3 -->
-    <td align="center" width="33%">
-      <a href="PROJECT_3_URL">
-        <img src="PROJECT_3_IMAGE_URL" alt="Product Classifier" width="70%" />
-        <br />
-        <b>🛍️ Product Classifier</b>
-      </a>
-      <br />
-      E-commerce CNN model showcasing automatic product categorization.
-    </td>
-  </tr>
-  <tr>
-    <!-- Project 4 -->
-    <td align="center">
-      <a href="PROJECT_4_URL">
-        <img src="PROJECT_4_IMAGE_URL" alt="Azure Multivariate Anomaly Detector Lab" width="70%" />
-        <br />
-        <b>🌌 Azure MVAD Lab</b>
-      </a>
-      <br />
-      Azure's MVAD capabilities with hands-on dataset exploration.
-    </td>
-    <!-- Project 5 -->
-    <td align="center">
-      <a href="PROJECT_5_URL">
-        <img src="PROJECT_5_IMAGE_URL" alt="msft-mlops-workshop" width="70%" />
-        <br />
-        <b>🚀 msft-mlops-workshop</b>
-      </a>
-      <br />
-      Mastering MLOps with Microsoft's tools and services.
-    </td>
-    <!-- Project 6 -->
-    <td align="center">
-      <a href="PROJECT_6_URL">
-        <img src="PROJECT_6_IMAGE_URL" alt="Noppo" width="70%" />
-        <br />
-        <b>📺 Noppo</b>
-      </a>
-      <br />
-      Aggregator & Analyzer for Netflix originals' comments and ratings.
-    </td>
-  </tr>
-</table>
+| Project Name | Description | Technologies |
+|--------------|-------------|--------|
+| [🚀 BacktestFlex](https://github.com/ShaoXiangChien/BacktestFlex) | Bitcoin Trading Strategy Backtester using Python, Streamlit & Binance API. | ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-0.89%2B-green) ![Binance API](https://img.shields.io/badge/Binance%20API-1.0%2B-yellow) |
+| [🤖 Eric Chien's LINE Bot](https://github.com/ShaoXiangChien/eric-chien-line-bot) | An interactive peek into my journey and projects via LINE bot. | ![Django](https://img.shields.io/badge/Django-3.2%2B-blue) |
+| [🛍️ Product Classifier](https://github.com/ShaoXiangChien/product-classifier) | E-commerce CNN model showcasing automatic product categorization. | ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.5%2B-orange) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.4%2B-blue) |
+| [🌌 Azure MVAD Lab](https://github.com/ShaoXiangChien/azure-mvad-lab) | Azure's MVAD capabilities with hands-on dataset exploration. | ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.4%2B-blue) |
+| [🚀 msft-mlops-workshop](https://github.com/ShaoXiangChien/msft-mlops-workshop) | Mastering MLOps with Microsoft's tools and services. | ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24%2B-green) ![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-blue) ![CI/CD](https://img.shields.io/badge/CI%2FCD-Continuous%20Integration-yellow) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-2021%2B-blue) |
+| [📺 Noppo](https://github.com/ShaoXiangChien/Noppo) | Aggregator & Analyzer for Netflix originals' comments and ratings. | ![Streamlit](https://img.shields.io/badge/Streamlit-0.89%2B-green) ![Firebase](https://img.shields.io/badge/Firebase-9.0%2B-yellow) ![Selenium](https://img.shields.io/badge/Selenium-4.0%2B-blue) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.9%2B-orange) |
+
+
 
 
 
