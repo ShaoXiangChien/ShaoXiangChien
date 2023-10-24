@@ -10,11 +10,9 @@
 </div>
 </div>
 
-
-
 # Hi there, I'm Eric! 👋
 
-## 🚀 About Me
+## 🙋‍♂️ About Me
 I'm a passionate coder with a strong footing in web development and data science. Currently scouting for software engineering roles to bring my expertise to the forefront.
 
 - 🌱 Diving deeper into **Next.js, Tensorflow**.
@@ -53,16 +51,12 @@ I'm a passionate coder with a strong footing in web development and data science
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🔗 Quick Links
-- 🎨 Projects: [List down your project names with links]
-- 📝 Blogs: [Your Blog or Articles link]
-
 ## 📈 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShaoXiangChien&theme=default)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShaoXiangChien)](https://git.io/streak-stats)
 
 ## Languages
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShaoXiangChien&theme=default)
