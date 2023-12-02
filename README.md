@@ -15,9 +15,11 @@
 ## 🙋‍♂️ About Me
 I'm a passionate coder with a strong footing in web development and data science. Currently scouting for **software engineering roles** to bring my expertise to the forefront.
 
+> I recently created a new portfolio website! Check it out below!
+
 - 🌱 Diving deeper into **Next.js, Tensorflow**.
 - 📫 Reach me at: [ericchien21@gmail.com](mailto:ericchien21@gmail.com)
-- 🌐 Portfolio: https://ericchien218.editorx.io/abouteric
+- 🌐 Portfolio: https://eric-portfolio-shaoxiangchien.vercel.app/
 - 🤝 Open for collaborations in **web development** and **data science** domains.
 
 ## 🔧 Technologies & Tools
