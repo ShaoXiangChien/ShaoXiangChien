@@ -17,9 +17,9 @@ I'm a passionate coder with a strong footing in web development and data science
 
 > I recently created a new portfolio website! Check it out below!
 
-- 🌱 Diving deeper into **Next.js, Tensorflow**.
+- 🌱 Diving deeper into **Next.js, LLM, RAG**.
 - 📫 Reach me at: [ericchien21@gmail.com](mailto:ericchien21@gmail.com)
-- 🌐 Portfolio: https://eric-portfolio-shaoxiangchien.vercel.app/
+- 🌐 Portfolio: https://ericchien-portfolio.vercel.app
 - 🤝 Open for collaborations in **web development** and **data science** domains.
 
 ## 🔧 Technologies & Tools
